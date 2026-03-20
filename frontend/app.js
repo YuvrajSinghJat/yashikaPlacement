@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api/auth";
+const API = "https://yashikaplacement.onrender.com/api/auth";
 
 function show(msg) {
   document.getElementById("msg").innerText = msg;
